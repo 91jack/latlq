@@ -1,0 +1,83 @@
+#分类表
+CREATE TABLE `category`(
+	`cid` INT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
+	`cname` VARCHAR(32) NOT NULL COMMENT '分类名称'
+)DEFAULT CHARSET=utf8;
+
+
+#文章表
+CREATE TABLE `article`(
+	`id` INT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
+	`cid` INT NOT NULL COMMENT '所属栏目id',
+	`name` VARCHAR(32) NOT NULL COMMENT '栏目名称'
+)DEFAULT CHARSET=utf8;
+
+
+
+#公司概况
+id 
+
+# 荣誉资质
+id
+资质图片
+
+企业简介
+图片
+介绍说明
+
+公司架构
+图片
+
+营销范围
+图片
+
+
+#发展历程
+[
+	{id:'',time:'',info:''},
+]
+id
+时间
+事项
+
+
+
+#新闻资讯分类表
+#新闻资讯详情表
+
+
+#产品分类表
+#产品详情表
+
+#生产研发分类表
+#生产研发详情表
+
+#工程案例分类表
+#工程案例详情表
+
+
+
+#招聘表
+id
+职位名称
+工作经验
+学历要求
+招聘人数
+工作地点
+职位薪资
+职位描述
+职位发布日期
+
+#精英团队
+id
+姓名
+职位
+个人照片
+个人经历
+
+
+#banner配置
+首页banner 数组
+
+
+

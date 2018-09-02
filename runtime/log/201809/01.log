@@ -1,0 +1,714 @@
+---------------------------------------------------------------
+[ 2018-09-01T07:59:07+08:00 ] 0.0.0.0 GET /latlq/public/
+[ error ] [4]语法错误: unexpected '}'
+---------------------------------------------------------------
+[ 2018-09-01T07:59:20+08:00 ] 0.0.0.0 GET /latlq/public/index.php
+[ error ] [4]语法错误: unexpected '}'
+---------------------------------------------------------------
+[ 2018-09-01T08:07:42+08:00 ] 0.0.0.0 GET /latlq/public/
+[ error ] [4]syntax error, unexpected ':'
+---------------------------------------------------------------
+[ 2018-09-01T08:07:58+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.160288s][吞吐率：6.24req/s] [内存消耗：2,483.81kb] [文件加载：36]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]syntax error, unexpected ':'[D:\wamp64\www\latlq\application\index\controller\Index.php:11]
+---------------------------------------------------------------
+[ 2018-09-01T08:08:12+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.050538s][吞吐率：19.79req/s] [内存消耗：2,475.05kb] [文件加载：37]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'app\index\controller\Db' not found[D:\wamp64\www\latlq\application\index\controller\Index.php:11]
+---------------------------------------------------------------
+[ 2018-09-01T08:08:48+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.046702s][吞吐率：21.41req/s] [内存消耗：2,478.23kb] [文件加载：36]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [4]语法错误: unexpected '/', expecting ',' or ';'[D:\wamp64\www\latlq\application\index\controller\Index.php:4]
+---------------------------------------------------------------
+[ 2018-09-01T08:09:05+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.207691s][吞吐率：4.81req/s] [内存消耗：3,795.98kb] [文件加载：40]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024840s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.042533s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.026658s ]
+---------------------------------------------------------------
+[ 2018-09-01T08:15:22+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.049427s][吞吐率：20.23req/s] [内存消耗：3,796.73kb] [文件加载：40]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001102s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001648s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000305s ]
+---------------------------------------------------------------
+[ 2018-09-01T08:16:39+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.077868s][吞吐率：12.84req/s] [内存消耗：4,322.77kb] [文件加载：48]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001736s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000968s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000268s ]
+[ error ] [0]模板文件不存在:D:\wamp64\www\latlq\public/../application/index\view\index\index.html[D:\wamp64\www\latlq\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2018-09-01T08:18:00+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.085538s][吞吐率：11.69req/s] [内存消耗：4,322.70kb] [文件加载：48]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010463s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000925s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000193s ]
+[ error ] [0]模板文件不存在:D:\wamp64\www\latlq\public/../application/index\view\index\index.html[D:\wamp64\www\latlq\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2018-09-01T08:18:02+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.058007s][吞吐率：17.24req/s] [内存消耗：4,322.77kb] [文件加载：48]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011381s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000959s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000289s ]
+[ error ] [0]模板文件不存在:D:\wamp64\www\latlq\public/../application/index\view\index\index.html[D:\wamp64\www\latlq\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2018-09-01T08:18:03+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.044457s][吞吐率：22.49req/s] [内存消耗：4,322.70kb] [文件加载：48]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010111s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000924s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000304s ]
+[ error ] [0]模板文件不存在:D:\wamp64\www\latlq\public/../application/index\view\index\index.html[D:\wamp64\www\latlq\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2018-09-01T08:18:28+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.049521s][吞吐率：20.19req/s] [内存消耗：4,483.09kb] [文件加载：48]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\latlq\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011667s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001900s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000445s ]
+---------------------------------------------------------------
+[ 2018-09-01T08:18:41+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.078169s][吞吐率：12.79req/s] [内存消耗：4,483.21kb] [文件加载：48]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\latlq\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011275s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001013s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000335s ]
+---------------------------------------------------------------
+[ 2018-09-01T08:24:54+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.085763s][吞吐率：11.66req/s] [内存消耗：4,682.63kb] [文件加载：54]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\latlq\public/../application/index\view\index\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000961s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001707s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000313s ]
+[ error ] [8]未定义数组索引: id[D:\wamp64\www\latlq\runtime\temp\993e4019586cd9f4304b4649f6a53a67.php:19]
+---------------------------------------------------------------
+[ 2018-09-01T08:25:19+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.094007s][吞吐率：10.64req/s] [内存消耗：4,682.35kb] [文件加载：54]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\latlq\public/../application/index\view\index\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011031s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000941s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000242s ]
+[ error ] [8]Use of undefined constant i - assumed 'i'[D:\wamp64\www\latlq\runtime\temp\993e4019586cd9f4304b4649f6a53a67.php:19]
+---------------------------------------------------------------
+[ 2018-09-01T08:26:01+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.043048s][吞吐率：23.23req/s] [内存消耗：4,583.17kb] [文件加载：50]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\latlq\public/../application/index\view\index\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000873s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000861s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000255s ]
+---------------------------------------------------------------
+[ 2018-09-01T08:26:15+08:00 ] 0.0.0.0 GET /latlq/public/
+[ info ] localhost/latlq/public/ [运行时间：0.044404s][吞吐率：22.52req/s] [内存消耗：4,583.05kb] [文件加载：50]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://localhost/latlq/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\wamp64\www\latlq\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\latlq\public/../application/index\view\index\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010709s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000762s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000266s ]
+---------------------------------------------------------------
+[ 2018-09-01T09:06:28+08:00 ] 0.0.0.0 GET /latlq/public/index.php/User/index
+[ info ] localhost/latlq/public/index.php/User/index [运行时间：0.079619s][吞吐率：12.56req/s] [内存消耗：2,452.06kb] [文件加载：35]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'User',
+    1 => 'index',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-09-01T09:06:37+08:00 ] 0.0.0.0 GET /latlq/public/index.php/index/User/index
+[ info ] localhost/latlq/public/index.php/index/User/index [运行时间：0.097309s][吞吐率：10.28req/s] [内存消耗：4,582.37kb] [文件加载：50]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'User',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\User->index[ D:\wamp64\www\latlq\application\index\controller\User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\latlq\public/../application/index\view\user\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001684s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.009333s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000322s ]
+---------------------------------------------------------------
+[ 2018-09-01T09:10:00+08:00 ] 0.0.0.0 GET /latlq/public/index.php/index/User/index
+[ info ] localhost/latlq/public/index.php/index/User/index [运行时间：0.075858s][吞吐率：13.18req/s] [内存消耗：4,335.70kb] [文件加载：48]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'User',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\User->index[ D:\wamp64\www\latlq\application\index\controller\User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\latlq\public/../application/index\view\user\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010207s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001923s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000291s ]
+---------------------------------------------------------------
+[ 2018-09-01T09:10:08+08:00 ] 0.0.0.0 GET /latlq/public/index.php/admin/User/index
+[ info ] localhost/latlq/public/index.php/admin/User/index [运行时间：0.040766s][吞吐率：24.53req/s] [内存消耗：4,582.37kb] [文件加载：50]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'User',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\User->index[ D:\wamp64\www\latlq\application\admin\controller\User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\latlq\public/../application/admin\view\user\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000934s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000920s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000255s ]
+---------------------------------------------------------------
+[ 2018-09-01T09:10:14+08:00 ] 0.0.0.0 GET /latlq/public/index.php/admin/User/index
+[ info ] localhost/latlq/public/index.php/admin/User/index [运行时间：0.055325s][吞吐率：18.08req/s] [内存消耗：4,335.70kb] [文件加载：48]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'User',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\User->index[ D:\wamp64\www\latlq\application\admin\controller\User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\latlq\public/../application/admin\view\user\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011410s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000795s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000268s ]
+---------------------------------------------------------------
+[ 2018-09-01T09:10:36+08:00 ] 0.0.0.0 GET /latlq/public/index.php/admin/User/index
+[ info ] localhost/latlq/public/index.php/admin/User/index [运行时间：0.068514s][吞吐率：14.60req/s] [内存消耗：4,582.52kb] [文件加载：50]
+[ info ] [ LANG ] D:\wamp64\www\latlq\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'User',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4094.1 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 'pgv_pvi=7275078656; pgv_si=s9053793280',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\User->index[ D:\wamp64\www\latlq\application\admin\controller\User.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\wamp64\www\latlq\public/../application/admin\view\user\index.html [ array (
+  0 => 'data',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011094s ] mysql:host=127.0.0.1;dbname=yzm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.001443s ]
+[ sql ] [ SQL ] SELECT * FROM `user` [ RunTime:0.000410s ]

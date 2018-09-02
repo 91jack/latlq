@@ -1,5 +1,5 @@
 <?php
-namespace app\index\controller;
+namespace app\admin\controller;
 
 // 引入系统类数据库
 use think\Db;

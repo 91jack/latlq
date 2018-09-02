@@ -1,12 +1,13 @@
 <?php
-namespace app\index\controller;
+// 声明命名空间 
+namespace app\admin\controller;
 
 // 引入系统类数据库
 use think\Db;
 
 // 引入系统控制器类
 use think\Controller;
-class Index extends controller
+class User extends controller
 {
     public function index()
     {
